@@ -16,11 +16,12 @@ I'm a Software Engineer 💻 studying Finance 📈 at Purdue University 🚂
 
 I'm passionate about leveraging software to _**create ridiculously useful products**_. Right now, I'm building [aicode.fail](https://aicode.fail), a straightforward reviewer of AI-generated code. 
 
-## 😁 Connect with me:
+## 😁 Let's connect!
 
 <a href="https://www.linkedin.com/in/lewispolansky/">
 <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lewis Polansky | LinkedIn"/>
 </a>
+Write me a note if we haven't met ✍️😎
 <br />
 
 ## 📖 I'm currently studying
