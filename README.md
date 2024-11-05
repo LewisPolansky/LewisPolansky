@@ -71,4 +71,4 @@ In addition, almost anything else if you give me a few weeks 🫡
 
 - **Head of Business Development, Purdue IEEE** - Purdue's 125 year old Student Branch of the largest professional technical society in the world.
 - **Software Engineering & Business Development Intern, JUA Technologies International** - An AgTech startup supplying solar-powered crop dehydration solutions to developing nations.
-- - **Founder, CyberSpace** - A network of competitive high school cybersecurity education clubs.
+- **Founder, CyberSpace** - A network of competitive high school cybersecurity education clubs.
