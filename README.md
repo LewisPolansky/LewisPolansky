@@ -30,15 +30,21 @@ Write me a note if we haven't met ✍️😎
 - Accuracy & Verification Algorithms for more reliable LLMs
 - Rapid-Growth Operations for Startups 
 
-## 💼 My Favorite Stack (for now at least 😳)
+## 💼 My SaaS Stack
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🤯 I also know 
@@ -53,22 +59,35 @@ Write me a note if we haven't met ✍️😎
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![BASIC](https://img.shields.io/badge/BASIC-3776AB?style=for-the-badge&logo=basic&logoColor=white)
-![TeraTerm](https://img.shields.io/badge/TeraTerm-1F425F?style=for-the-badge&logo=teraterm&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-In addition, almost anything else if you give me a few weeks 🫡
-
----
+and almost anything else if you give me a few weeks 🫡
 
 ## 🏆 Awards & Achievements
 
-- **$10,000 R&D Prize** - For inventing the Soy-Based Milk Carton, Indiana Soybean Alliance (2024)
-- **Certificates of Congressional Recognition** - For Message Translating Chat App & Community Service Map App, Congresswoman Judy Chu (2023 & 2021)
-- **Eagle Scout** - Troop 7, South Pasadena (2024)
+- **$10,000 R&D Prize** _(2024)_
+  
+  ```For inventing the Soy-Based Milk Carton, Indiana Soybean Alliance```
 
-## 👥 Relavent Experience
+- **Certificates of Congressional Recognition** _(2021 & 2023)_
 
-- **Head of Business Development, Purdue IEEE** - Purdue's 125 year old Student Branch of the largest professional technical society in the world.
-- **Software Engineering & Business Development Intern, JUA Technologies International** - An AgTech startup supplying solar-powered crop dehydration solutions to developing nations.
-- **Founder, CyberSpace** - A network of competitive high school cybersecurity education clubs.
+  ```For Message Translating Chat App & Community Service Map App, Congresswoman Judy Chu```
+ 
+- **Eagle Scout** _(2024)_
+
+  ```Troop 7, South Pasadena, CA```
+
+## 🏢 Relavent Experience
+
+- Head of Business Development, _**Purdue IEEE**_
+
+  ```Purdue's 125 year old Student Branch of the largest technical professional society in the world```
+
+- Software Engineering & Business Development Intern, _**JUA Technologies International**_
+
+  ```An AgTech startup supplying solar-powered crop dehydration solutions to developing nations```
+
+- Founder, _**CyberSpace**_
+
+  ```A network of competitive high school cybersecurity education clubs```
+
