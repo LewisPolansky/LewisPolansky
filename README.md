@@ -26,7 +26,7 @@ Write me a note if we haven't met ✍️😎
 
 ## 📖 I'm currently studying
 
-- Advanced FinTech and Financial Engineering at Purdue's Daniels School of Business
+- Advanced FinTech and Financial Engineering at Purdue Daniels School of Business
 - Accuracy & Verification Algorithms for more reliable LLMs
 - Rapid-Growth Operations for Startups 
 
