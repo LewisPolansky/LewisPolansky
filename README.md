@@ -1,20 +1,16 @@
 <p align="center">
   <a href="https://linkedin.com/in/lewispolansky" target="_blank" rel="noreferrer">
     <div style="width: 100%; height: 100px; overflow: hidden; position: relative;">
-      <img src="https://github.com/user-attachments/assets/8b9b5fbb-1733-41e8-9ff9-6c333251a690" alt="Gradient banner" style="width: 100%; position: absolute; top: 50%; transform: translateY(-50%);">
+      <img src="https://github.com/user-attachments/assets/4bfab2b8-6952-48c1-869c-bdd39f0c90f5" alt="Gradient banner" style="width: 100%; position: absolute; top: 50%; transform: translateY(-50%);">
     </div>
   </a>
 </p>
-
-<h1 align="center">
-Hey! I'm Lewis 👋🏼
-</h1>
 
 <h2 align="center">
 I'm a Software Engineer 💻 studying Finance 📈 at Purdue University 🚂
 </h2>
 
-I'm passionate about leveraging software to _**create ridiculously useful products**_. Right now, I'm building [aicode.fail](https://aicode.fail), a straightforward reviewer of AI-generated code. 
+I'm passionate about leveraging software to _**create ridiculously useful products**_. Check out my site, [lewispolansky.com](https://lewispolansky.com/)!
 
 ## 😁 Let's connect!
 
